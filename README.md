@@ -11,3 +11,6 @@ El objetivo es ayudar a los usuarios a organizar sus entrenamientos de forma pr√
 ## Ejemplo de uso
 ```bash
 bash simple-exercise.sh "correr" 30
+
+Esta es una prueba de fusi√≥n.
+
